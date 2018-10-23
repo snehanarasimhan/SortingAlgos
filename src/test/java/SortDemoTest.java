@@ -19,7 +19,7 @@ import main.java.SortDemoData;
 public class SortDemoTest{
 	SortDemoData data = new SortDemoData();
 
-	public SortDemo sortDemo = new SortDemo();
+	//public SortDemo sortDemo = new SortDemo();
 	/**
 	* testNewAccountsType checks for valid input types in the 1st parameter
 	*/
@@ -84,11 +84,11 @@ public class SortDemoTest{
 	}
 
 	
-	@Test
+	/*@Test
 	public void testLaunchApplet()
 	{
 		sortDemo.init();
 		sortDemo.displayHelp();
 		sortDemo.runDemo();
-	}
+	}*/
 }
